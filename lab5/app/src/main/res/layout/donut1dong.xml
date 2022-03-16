@@ -32,7 +32,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/imgPicture"
-        tools:layout_editor_absoluteY="316dp" />
+        tools:layout_editor_absoluteY="316dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/txtName"
