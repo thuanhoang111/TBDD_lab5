@@ -81,7 +81,7 @@ public class DonutAdapter extends  BaseAdapter {
             layout01.setBackgroundColor(Color.WHITE);
 
         return view;
-
+        
 
 
 
